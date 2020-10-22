@@ -2,9 +2,19 @@
   "name": "@veighnsche/csv",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veighnsche/csv.git"
+  },
+  "dependencies": {
+    "@veighsnche/pipe": "file:../pipe"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
   },
   "keywords": [],
   "author": "",
