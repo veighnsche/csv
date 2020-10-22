@@ -11,7 +11,7 @@
     "url": "git+https://github.com/veighnsche/csv.git"
   },
   "dependencies": {
-    "@veighsnche/pipe": "file:../pipe"
+    "@veighnsche/pipe": "file:../pipe"
   },
   "devDependencies": {
     "typescript": "^4.0.3"

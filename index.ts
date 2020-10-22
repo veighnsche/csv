@@ -1,4 +1,4 @@
-import { Fn, pipe, toggleLogging as togglePipeLogging } from '@veighsnche/pipe'
+import { Fn, pipe, toggleLogging as togglePipeLogging } from '@veighnsche/pipe'
 
 export let logging = false
 
